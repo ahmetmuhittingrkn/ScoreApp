@@ -18,7 +18,7 @@ ScoreApp, kullanıcıların canlı maç skorlarını takip edebileceği, geçmi�
   <img src="screenshots/puan.png" alt="Puan Durumu" width="300"/>
   <img src="screenshots/mac.png" alt="Oynanan Maçlar" width="300"/>
   <img src="screenshots/takim.png" alt="Takımlar" width="300"/>
-  <img src="screenshots/detay" alt="Maç Detayı" width="300"/>
+  <img src="screenshots/detay.png" alt="Maç Detayı" width="300"/>
 </p>
 
 ## 🔧 Kurulum  
